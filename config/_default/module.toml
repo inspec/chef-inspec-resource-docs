@@ -38,29 +38,27 @@ workspace = ''
 # Mount Hugo theme
 ###
 
-# Temporarily commented out due to network connectivity issues in build environment
-# Uncomment these lines when network connectivity allows downloading the chef-docs-theme
-# [[imports]]
-#   disable = false
-#   ignoreConfig = false
-#   ignoreImports = false
-#   path = "github.com/chef/chef-docs-theme"
-# 
-# [[imports.mounts]]
-#   source = "static"
-#   target = "static"
-# 
-# [[imports.mounts]]
-#   source = "layouts"
-#   target = "layouts"
-# 
-# [[imports.mounts]]
-#   source = "data"
-#   target = "data"
-# 
-# [[imports.mounts]]
-#   source = "assets"
-#   target = "assets"
+[[imports]]
+  disable = false
+  ignoreConfig = false
+  ignoreImports = false
+  path = "github.com/chef/chef-docs-theme"
+
+[[imports.mounts]]
+  source = "static"
+  target = "static"
+
+[[imports.mounts]]
+  source = "layouts"
+  target = "layouts"
+
+[[imports.mounts]]
+  source = "data"
+  target = "data"
+
+[[imports.mounts]]
+  source = "assets"
+  target = "assets"
 
 [[mounts]]
   source = 'archetypes'
