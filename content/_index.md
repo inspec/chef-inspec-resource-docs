@@ -1,10 +1,8 @@
 +++
-title = "Chef InSpec Resource Documentation"
+title = "Chef InSpec resource packs"
 draft = false
 breadcrumbs = true
 +++
-
-# Chef InSpec Resource Documentation
 
 Welcome to the Chef InSpec Resource Documentation site. This site is configured as a Hugo site based on the chef-inspec-docs repository.
 

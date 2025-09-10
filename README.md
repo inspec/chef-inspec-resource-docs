@@ -1,3 +1,4 @@
+<!-- markdownlint-disable MD002 -->
 # Chef InSpec resource pack documentation
 
 This repository contains documentation for Chef InSpec resource packs.
