@@ -50,3 +50,51 @@ weight = 60
 ####
 ## End Main Menu ##
 ####
+
+####
+## Resource pack menus
+####
+
+[[alicloud]]
+title = "Alibaba Cloud"
+identifier = "inspec/resources/alicloud"
+
+[[aws]]
+title = "AWS"
+identifier = "inspec/resources/aws"
+
+[[azure]]
+title = "Azure"
+identifier = "inspec/resources/azure"
+
+[[docker]]
+title = "Docker"
+identifier = "inspec/resources/docker"
+
+[[elasticsearch]]
+title = "Elasticsearch"
+identifier = "inspec/resources/elasticsearch"
+
+[[gcp]]
+title = "GCP"
+identifier = "inspec/resources/gcp"
+
+[[habitat]]
+title = "Habitat"
+identifier = "inspec/resources/habitat"
+
+[[k8s]]
+title = "Kubernetes"
+identifier = "inspec/resources/k8s"
+
+[[mongodb]]
+title = "MongoDB"
+identifier = "inspec/resources/mongodb"
+
+[[podman]]
+title = "Podman"
+identifier = "inspec/resources/podman"
+
+[[rabbitmq]]
+title = "RabbitMQ"
+identifier = "inspec/resources/rabbitmq"

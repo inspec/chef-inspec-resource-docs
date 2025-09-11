@@ -1,2 +1,6 @@
 github.com/chef/chef-docs-theme v0.0.0-20250910183723-d7eeb21fa4e6 h1:xVfUSt79EKoPAlXC6hpHQQABnOk9qcLzahGHCKovd/U=
 github.com/chef/chef-docs-theme v0.0.0-20250910183723-d7eeb21fa4e6/go.mod h1:+Jpnv+LXE6dXu2xDcMzMc0RxRGuCPAoFxq5tJ/X6QpQ=
+github.com/inspec/inspec-alicloud/docs-chef-io v0.0.0-20250911191231-ebeaa9f23937 h1:AkWorCrN3KQ9TPuhJDAkjT3BSsYmc0APoUAsa8x2Ktg=
+github.com/inspec/inspec-alicloud/docs-chef-io v0.0.0-20250911191231-ebeaa9f23937/go.mod h1:tAazDDBtR5yCl/FNWHnrmkxpfxnOo9B99DyfRE7JH1c=
+github.com/inspec/inspec-gcp/docs-chef-io v0.0.0-20250911201923-c81ab6235fe3 h1:4x09Mg56Zlw04te46gD54HgEv8a8UiZLLhMyo4CFn+8=
+github.com/inspec/inspec-gcp/docs-chef-io v0.0.0-20250911201923-c81ab6235fe3/go.mod h1:3Ad4LlqDpvhXXkDJ5THGP4Nk2lTvOerNN2PBujr6KRA=

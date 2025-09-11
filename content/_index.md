@@ -1,9 +1,13 @@
 +++
 title = "Chef InSpec resource packs"
 draft = false
-breadcrumbs = true
+list_pages = true
+linkTitle = "Resource packs"
+
+[cascade]
+  breadcrumbs = true
+
+[menu.about]
+title = "Resource packs"
+identifier = "inspec/resources"
 +++
-
-Welcome to the Chef InSpec Resource Documentation site. This site is configured as a Hugo site based on the chef-inspec-docs repository.
-
-This is a blank Hugo site ready for content to be added.

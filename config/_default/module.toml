@@ -87,3 +87,36 @@ workspace = ''
 [[mounts]]
   source = "node_modules/foundation-sites"
   target = "assets/sass/foundation-sites"
+
+###
+# InSpec Alicloud resoure docs
+###
+
+[[imports]]
+  disable = false
+  ignoreConfig = false
+  ignoreImports = false
+  path = "github.com/inspec/inspec-alicloud/docs-chef-io"
+
+[[imports.mounts]]
+  source = "content"
+  target = "content/alicloud"
+
+[[imports.mounts]]
+  source = "layouts"
+  target = "layouts"
+
+
+###
+# InSpec GCP resoure docs
+###
+
+[[imports]]
+  disable = false
+  ignoreConfig = false
+  ignoreImports = false
+  path = "github.com/inspec/inspec-gcp/docs-chef-io"
+
+[[imports.mounts]]
+  source = "content"
+  target = "content/gcp"
