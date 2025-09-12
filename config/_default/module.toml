@@ -108,6 +108,70 @@ workspace = ''
 
 
 ###
+# InSpec aws resoure docs
+###
+
+[[imports]]
+  disable = false
+  ignoreConfig = false
+  ignoreImports = false
+  path = "github.com/inspec/inspec-aws/docs-chef-io"
+
+[[imports.mounts]]
+  source = "content"
+  target = "content/aws"
+
+[[imports.mounts]]
+  source = "assets"
+  target = "assets"
+
+[[imports.mounts]]
+  source = "layouts"
+  target = "layouts"
+
+###
+# InSpec azure resoure docs
+###
+
+# [[imports]]
+#   disable = false
+#   ignoreConfig = false
+#   ignoreImports = false
+#   path = "github.com/inspec/inspec-azure/docs-chef-io"
+
+# [[imports.mounts]]
+#   source = "content"
+#   target = "content/azure"
+
+# ###
+# # InSpec docker resoure docs
+# ###
+
+# [[imports]]
+#   disable = false
+#   ignoreConfig = false
+#   ignoreImports = false
+#   path = "github.com/inspec/inspec-docker/docs-chef-io"
+
+# [[imports.mounts]]
+#   source = "content"
+#   target = "content/docker"
+
+# ###
+# # InSpec elasticsearch resoure docs
+# ###
+
+# [[imports]]
+#   disable = false
+#   ignoreConfig = false
+#   ignoreImports = false
+#   path = "github.com/inspec/inspec-elasticsearch/docs-chef-io"
+
+# [[imports.mounts]]
+#   source = "content"
+#   target = "content/elasticsearch"
+
+###
 # InSpec GCP resoure docs
 ###
 
@@ -120,3 +184,73 @@ workspace = ''
 [[imports.mounts]]
   source = "content"
   target = "content/gcp"
+
+# ###
+# # InSpec habitat resoure docs
+# ###
+
+# [[imports]]
+#   disable = false
+#   ignoreConfig = false
+#   ignoreImports = false
+#   path = "github.com/inspec/inspec-habitat/docs-chef-io"
+
+# [[imports.mounts]]
+#   source = "content"
+#   target = "content/habitat"
+
+# ###
+# # InSpec k8s resoure docs
+# ###
+
+# [[imports]]
+#   disable = false
+#   ignoreConfig = false
+#   ignoreImports = false
+#   path = "github.com/inspec/inspec-k8s/docs-chef-io"
+
+# [[imports.mounts]]
+#   source = "content"
+#   target = "content/k8s"
+
+# ###
+# # InSpec mongodb resoure docs
+# ###
+
+# [[imports]]
+#   disable = false
+#   ignoreConfig = false
+#   ignoreImports = false
+#   path = "github.com/inspec/inspec-mongodb/docs-chef-io"
+
+# [[imports.mounts]]
+#   source = "content"
+#   target = "content/mongodb"
+
+# ###
+# # InSpec podman resoure docs
+# ###
+
+# [[imports]]
+#   disable = false
+#   ignoreConfig = false
+#   ignoreImports = false
+#   path = "github.com/inspec/inspec-podman/docs-chef-io"
+
+# [[imports.mounts]]
+#   source = "content"
+#   target = "content/podman"
+
+# ###
+# # InSpec rabbitmq resoure docs
+# ###
+
+# [[imports]]
+#   disable = false
+#   ignoreConfig = false
+#   ignoreImports = false
+#   path = "github.com/inspec/inspec-rabbitmq/docs-chef-io"
+
+# [[imports.mounts]]
+#   source = "content"
+#   target = "content/rabbitmq"

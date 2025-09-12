@@ -2,5 +2,17 @@ github.com/chef/chef-docs-theme v0.0.0-20250910183723-d7eeb21fa4e6 h1:xVfUSt79EK
 github.com/chef/chef-docs-theme v0.0.0-20250910183723-d7eeb21fa4e6/go.mod h1:+Jpnv+LXE6dXu2xDcMzMc0RxRGuCPAoFxq5tJ/X6QpQ=
 github.com/inspec/inspec-alicloud/docs-chef-io v0.0.0-20250911191231-ebeaa9f23937 h1:AkWorCrN3KQ9TPuhJDAkjT3BSsYmc0APoUAsa8x2Ktg=
 github.com/inspec/inspec-alicloud/docs-chef-io v0.0.0-20250911191231-ebeaa9f23937/go.mod h1:tAazDDBtR5yCl/FNWHnrmkxpfxnOo9B99DyfRE7JH1c=
+github.com/inspec/inspec-aws/docs-chef-io v0.0.0-20240122032232-049dcf822eef h1:r+GoVO6zbIAtusZ2w6MwUhtDAJicQkYbX0iWwZmuXfQ=
+github.com/inspec/inspec-aws/docs-chef-io v0.0.0-20240122032232-049dcf822eef/go.mod h1:5rfIsi1/SqSiAXqU94UOcfMnebnuaEmFriU8k8t1Kes=
+github.com/inspec/inspec-aws/docs-chef-io v0.0.0-20250912182401-23bcb67f5e0b h1:XHAF/VEmNdP2IGch1yhos3W8Irhn1IebENe0SmrMKvk=
+github.com/inspec/inspec-aws/docs-chef-io v0.0.0-20250912182401-23bcb67f5e0b/go.mod h1:5rfIsi1/SqSiAXqU94UOcfMnebnuaEmFriU8k8t1Kes=
+github.com/inspec/inspec-aws/docs-chef-io v0.0.0-20250912183624-ed3ae98b978c h1:Y4/pKpULd4JTdSswlTQYdlRTqHkAPZzDdBqKvNOwr9E=
+github.com/inspec/inspec-aws/docs-chef-io v0.0.0-20250912183624-ed3ae98b978c/go.mod h1:5rfIsi1/SqSiAXqU94UOcfMnebnuaEmFriU8k8t1Kes=
+github.com/inspec/inspec-aws/docs-chef-io v0.0.0-20250912184306-c16f222abcb6 h1:wbRU/HHQWanqQnSp0ZZJs3Jd1MlPFFXD9SM6mZyBsHs=
+github.com/inspec/inspec-aws/docs-chef-io v0.0.0-20250912184306-c16f222abcb6/go.mod h1:5rfIsi1/SqSiAXqU94UOcfMnebnuaEmFriU8k8t1Kes=
+github.com/inspec/inspec-aws/docs-chef-io v0.0.0-20250912185432-7baf7b0868c3 h1:0o24or/Nw3AJvkfJY0j3OX/cezGiBUC3R1SfSO6qIRE=
+github.com/inspec/inspec-aws/docs-chef-io v0.0.0-20250912185432-7baf7b0868c3/go.mod h1:5rfIsi1/SqSiAXqU94UOcfMnebnuaEmFriU8k8t1Kes=
+github.com/inspec/inspec-aws/docs-chef-io v0.0.0-20250912190752-0aa1f52acb33 h1:Z3nCKMAfCYSHB22nRXMMh1GPiU8euNKT3rH7jOglXik=
+github.com/inspec/inspec-aws/docs-chef-io v0.0.0-20250912190752-0aa1f52acb33/go.mod h1:5rfIsi1/SqSiAXqU94UOcfMnebnuaEmFriU8k8t1Kes=
 github.com/inspec/inspec-gcp/docs-chef-io v0.0.0-20250911201923-c81ab6235fe3 h1:4x09Mg56Zlw04te46gD54HgEv8a8UiZLLhMyo4CFn+8=
 github.com/inspec/inspec-gcp/docs-chef-io v0.0.0-20250911201923-c81ab6235fe3/go.mod h1:3Ad4LlqDpvhXXkDJ5THGP4Nk2lTvOerNN2PBujr6KRA=
