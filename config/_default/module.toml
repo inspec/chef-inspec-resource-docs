@@ -133,15 +133,23 @@ workspace = ''
 # InSpec azure resoure docs
 ###
 
-# [[imports]]
-#   disable = false
-#   ignoreConfig = false
-#   ignoreImports = false
-#   path = "github.com/inspec/inspec-azure/docs-chef-io"
+[[imports]]
+  disable = false
+  ignoreConfig = false
+  ignoreImports = false
+  path = "github.com/inspec/inspec-azure/docs-chef-io"
 
-# [[imports.mounts]]
-#   source = "content"
-#   target = "content/azure"
+[[imports.mounts]]
+  source = "assets"
+  target = "assets"
+
+[[imports.mounts]]
+  source = "content"
+  target = "content/azure"
+
+[[imports.mounts]]
+  source = "layouts"
+  target = "layouts"
 
 # ###
 # # InSpec docker resoure docs

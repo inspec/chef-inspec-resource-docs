@@ -7,4 +7,5 @@
 # github.com/ten1seven/what-input v5.2.12+incompatible
 # github.com/inspec/inspec-alicloud/docs-chef-io v0.0.0-20250911191231-ebeaa9f23937
 # github.com/inspec/inspec-aws/docs-chef-io v0.0.0-20250912190752-0aa1f52acb33
+# github.com/inspec/inspec-azure/docs-chef-io v0.0.0-20250912213150-214870470f20
 # github.com/inspec/inspec-gcp/docs-chef-io v0.0.0-20250911201923-c81ab6235fe3
