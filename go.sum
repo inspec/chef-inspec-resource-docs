@@ -8,3 +8,5 @@ github.com/inspec/inspec-azure/docs-chef-io v0.0.0-20250912213150-214870470f20 h
 github.com/inspec/inspec-azure/docs-chef-io v0.0.0-20250912213150-214870470f20/go.mod h1:93+uw8FTBAWybBZIn45FzO5vnZDBh51lgMwMP1vvIqo=
 github.com/inspec/inspec-gcp/docs-chef-io v0.0.0-20250911201923-c81ab6235fe3 h1:4x09Mg56Zlw04te46gD54HgEv8a8UiZLLhMyo4CFn+8=
 github.com/inspec/inspec-gcp/docs-chef-io v0.0.0-20250911201923-c81ab6235fe3/go.mod h1:3Ad4LlqDpvhXXkDJ5THGP4Nk2lTvOerNN2PBujr6KRA=
+github.com/inspec/inspec-habitat/docs-chef-io v0.0.0-20250915185629-96bbe0e675bd h1:w8zDq2JmjaJ9Q/FmVIl2N5zaip2GWPo6Acmk8Iu6qDQ=
+github.com/inspec/inspec-habitat/docs-chef-io v0.0.0-20250915185629-96bbe0e675bd/go.mod h1:Q4E7QBY4b7HDE2psfGT9jqvnLq1yfg5e9KWK4VTtI/M=
