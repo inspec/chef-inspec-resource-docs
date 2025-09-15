@@ -207,19 +207,19 @@ workspace = ''
   source = "content"
   target = "content/habitat"
 
-# ###
-# # InSpec k8s resoure docs
-# ###
+###
+# InSpec k8s resoure docs
+###
 
-# [[imports]]
-#   disable = false
-#   ignoreConfig = false
-#   ignoreImports = false
-#   path = "github.com/inspec/inspec-k8s/docs-chef-io"
+[[imports]]
+  disable = false
+  ignoreConfig = false
+  ignoreImports = false
+  path = "github.com/inspec/inspec-k8s/docs-chef-io"
 
-# [[imports.mounts]]
-#   source = "content"
-#   target = "content/k8s"
+[[imports.mounts]]
+  source = "content"
+  target = "content/k8s"
 
 # ###
 # # InSpec mongodb resoure docs
