@@ -239,15 +239,15 @@ workspace = ''
 # # InSpec podman resource docs
 # ###
 
-# [[imports]]
-#   disable = false
-#   ignoreConfig = false
-#   ignoreImports = false
-#   path = "github.com/inspec/inspec-podman-resources/docs-chef-io"
+[[imports]]
+  disable = false
+  ignoreConfig = false
+  ignoreImports = false
+  path = "github.com/inspec/inspec-podman-resources/docs-chef-io"
 
-# [[imports.mounts]]
-#   source = "content"
-#   target = "content/podman"
+[[imports.mounts]]
+  source = "content"
+  target = "content/podman"
 
 # ###
 # # InSpec rabbitmq resource docs
