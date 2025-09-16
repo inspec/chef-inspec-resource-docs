@@ -253,12 +253,12 @@ workspace = ''
 # # InSpec rabbitmq resource docs
 # ###
 
-# [[imports]]
-#   disable = false
-#   ignoreConfig = false
-#   ignoreImports = false
-#   path = "github.com/inspec/inspec-rabbitmq-resources/docs-chef-io"
+[[imports]]
+  disable = false
+  ignoreConfig = false
+  ignoreImports = false
+  path = "github.com/inspec/inspec-rabbitmq-resources/docs-chef-io"
 
-# [[imports.mounts]]
-#   source = "content"
-#   target = "content/rabbitmq"
+[[imports.mounts]]
+  source = "content"
+  target = "content/rabbitmq"
