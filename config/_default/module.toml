@@ -169,15 +169,15 @@ workspace = ''
 # # InSpec elasticsearch resource docs
 # ###
 
-# [[imports]]
-#   disable = false
-#   ignoreConfig = false
-#   ignoreImports = false
-#   path = "github.com/inspec/inspec-elasticsearch-resources/docs-chef-io"
+[[imports]]
+  disable = false
+  ignoreConfig = false
+  ignoreImports = false
+  path = "github.com/inspec/inspec-elasticsearch-resources/docs-chef-io"
 
-# [[imports.mounts]]
-#   source = "content"
-#   target = "content/elasticsearch"
+[[imports.mounts]]
+  source = "content"
+  target = "content/elasticsearch"
 
 ###
 # InSpec GCP resource docs

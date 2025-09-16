@@ -8,6 +8,8 @@ github.com/inspec/inspec-azure/docs-chef-io v0.0.0-20250912213150-214870470f20 h
 github.com/inspec/inspec-azure/docs-chef-io v0.0.0-20250912213150-214870470f20/go.mod h1:93+uw8FTBAWybBZIn45FzO5vnZDBh51lgMwMP1vvIqo=
 github.com/inspec/inspec-docker-resources/docs-chef-io v0.0.0-20250916163154-00f68530f2fe h1:q+6/ew2uKVcCDRZQypESj/96ebFngKkRgZWWTdQEQgo=
 github.com/inspec/inspec-docker-resources/docs-chef-io v0.0.0-20250916163154-00f68530f2fe/go.mod h1:3fzIdivw/hG5uMTaSjX7wy/awPB9UZwOnqu8CWP7yWc=
+github.com/inspec/inspec-elasticsearch-resources/docs-chef-io v0.0.0-20250916165122-f444af6bce12 h1:LzWarSTTlgS5Aa1C3dXFoaoWJ/GHhMTx0JXQyYTCrE8=
+github.com/inspec/inspec-elasticsearch-resources/docs-chef-io v0.0.0-20250916165122-f444af6bce12/go.mod h1:/lARzfhh3ayUdfLhOQ69n8FzYNlNY7MN+D5ZZvM3g6M=
 github.com/inspec/inspec-gcp/docs-chef-io v0.0.0-20250911201923-c81ab6235fe3 h1:4x09Mg56Zlw04te46gD54HgEv8a8UiZLLhMyo4CFn+8=
 github.com/inspec/inspec-gcp/docs-chef-io v0.0.0-20250911201923-c81ab6235fe3/go.mod h1:3Ad4LlqDpvhXXkDJ5THGP4Nk2lTvOerNN2PBujr6KRA=
 github.com/inspec/inspec-habitat/docs-chef-io v0.0.0-20250916164355-e5e082fedbcf h1:6RqJNP32Oqqj4r0xdsselMmO0NlW5lJuZMDkvr2BQbw=
