@@ -1,15 +1,21 @@
 +++
-title = "About Chef InSpec Habitat resources"
-platform = "habitat"
+title = "About the Chef InSpec Habitat resource pack"
+
 draft = false
-gh_repo = "inspec-habitat"
-linkTitle = "Habitat resources"
+
+linkTitle = "Habitat resource pack"
 summary = "Chef InSpec resources for auditing Habitat packages and services"
 
+[cascade]
+  [cascade.params]
+    platform = "habitat"
+    gh_repo = "inspec-habitat"
+
 [menu.habitat]
-    title = "About"
+    title = "About Habitat resources"
     identifier = "inspec/resources/habitat/About"
     parent = "inspec/resources/habitat"
+    weight = 10
 +++
 
 The Chef InSpec Habitat resources allow you to audit and test Chef Habitat packages and services in your infrastructure. You can verify package installations, check service configurations, and validate the operational state of your Habitat-managed applications.
@@ -98,7 +104,7 @@ In this command:
 For example, to run a profile using a configuration named "production":
 
 ```sh
-inspec exec my-habitat-profile --target habitat://production
+inspec exec profile-name --target habitat://production
 ```
 
 ## Habitat resources

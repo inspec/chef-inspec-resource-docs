@@ -10,7 +10,7 @@ github.com/inspec/inspec-docker-resources/docs-chef-io v0.0.0-20250916163154-00f
 github.com/inspec/inspec-docker-resources/docs-chef-io v0.0.0-20250916163154-00f68530f2fe/go.mod h1:3fzIdivw/hG5uMTaSjX7wy/awPB9UZwOnqu8CWP7yWc=
 github.com/inspec/inspec-gcp/docs-chef-io v0.0.0-20250911201923-c81ab6235fe3 h1:4x09Mg56Zlw04te46gD54HgEv8a8UiZLLhMyo4CFn+8=
 github.com/inspec/inspec-gcp/docs-chef-io v0.0.0-20250911201923-c81ab6235fe3/go.mod h1:3Ad4LlqDpvhXXkDJ5THGP4Nk2lTvOerNN2PBujr6KRA=
-github.com/inspec/inspec-habitat/docs-chef-io v0.0.0-20250915185629-96bbe0e675bd h1:w8zDq2JmjaJ9Q/FmVIl2N5zaip2GWPo6Acmk8Iu6qDQ=
-github.com/inspec/inspec-habitat/docs-chef-io v0.0.0-20250915185629-96bbe0e675bd/go.mod h1:Q4E7QBY4b7HDE2psfGT9jqvnLq1yfg5e9KWK4VTtI/M=
+github.com/inspec/inspec-habitat/docs-chef-io v0.0.0-20250916164355-e5e082fedbcf h1:6RqJNP32Oqqj4r0xdsselMmO0NlW5lJuZMDkvr2BQbw=
+github.com/inspec/inspec-habitat/docs-chef-io v0.0.0-20250916164355-e5e082fedbcf/go.mod h1:Q4E7QBY4b7HDE2psfGT9jqvnLq1yfg5e9KWK4VTtI/M=
 github.com/inspec/inspec-k8s/docs-chef-io v0.0.0-20250915194046-f000468b121d h1:Wldd69ZD+T0fUxniexRVpWmcsPg8CdVXQkBTrEXC38w=
 github.com/inspec/inspec-k8s/docs-chef-io v0.0.0-20250915194046-f000468b121d/go.mod h1:JwjkNHKgELWxc9esXuK3ELEGL371pK496OKrK+te3Lk=

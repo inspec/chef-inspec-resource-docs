@@ -173,7 +173,7 @@ workspace = ''
 #   disable = false
 #   ignoreConfig = false
 #   ignoreImports = false
-#   path = "github.com/inspec/inspec-elasticsearch/docs-chef-io"
+#   path = "github.com/inspec/inspec-elasticsearch-resources/docs-chef-io"
 
 # [[imports.mounts]]
 #   source = "content"
@@ -229,7 +229,7 @@ workspace = ''
 #   disable = false
 #   ignoreConfig = false
 #   ignoreImports = false
-#   path = "github.com/inspec/inspec-mongodb/docs-chef-io"
+#   path = "github.com/inspec/inspec-mongodb-resources/docs-chef-io"
 
 # [[imports.mounts]]
 #   source = "content"
@@ -243,7 +243,7 @@ workspace = ''
 #   disable = false
 #   ignoreConfig = false
 #   ignoreImports = false
-#   path = "github.com/inspec/inspec-podman/docs-chef-io"
+#   path = "github.com/inspec/inspec-podman-resources/docs-chef-io"
 
 # [[imports.mounts]]
 #   source = "content"
@@ -257,7 +257,7 @@ workspace = ''
 #   disable = false
 #   ignoreConfig = false
 #   ignoreImports = false
-#   path = "github.com/inspec/inspec-rabbitmq/docs-chef-io"
+#   path = "github.com/inspec/inspec-rabbitmq-resources/docs-chef-io"
 
 # [[imports.mounts]]
 #   source = "content"
