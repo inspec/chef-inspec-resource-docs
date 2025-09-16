@@ -225,15 +225,15 @@ workspace = ''
 # # InSpec mongodb resource docs
 # ###
 
-# [[imports]]
-#   disable = false
-#   ignoreConfig = false
-#   ignoreImports = false
-#   path = "github.com/inspec/inspec-mongodb-resources/docs-chef-io"
+[[imports]]
+  disable = false
+  ignoreConfig = false
+  ignoreImports = false
+  path = "github.com/inspec/inspec-mongodb-resources/docs-chef-io"
 
-# [[imports.mounts]]
-#   source = "content"
-#   target = "content/mongodb"
+[[imports.mounts]]
+  source = "content"
+  target = "content/mongodb"
 
 # ###
 # # InSpec podman resource docs

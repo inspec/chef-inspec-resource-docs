@@ -16,3 +16,5 @@ github.com/inspec/inspec-habitat/docs-chef-io v0.0.0-20250916164355-e5e082fedbcf
 github.com/inspec/inspec-habitat/docs-chef-io v0.0.0-20250916164355-e5e082fedbcf/go.mod h1:Q4E7QBY4b7HDE2psfGT9jqvnLq1yfg5e9KWK4VTtI/M=
 github.com/inspec/inspec-k8s/docs-chef-io v0.0.0-20250915194046-f000468b121d h1:Wldd69ZD+T0fUxniexRVpWmcsPg8CdVXQkBTrEXC38w=
 github.com/inspec/inspec-k8s/docs-chef-io v0.0.0-20250915194046-f000468b121d/go.mod h1:JwjkNHKgELWxc9esXuK3ELEGL371pK496OKrK+te3Lk=
+github.com/inspec/inspec-mongodb-resources/docs-chef-io v0.0.0-20250916171923-0350a4010119 h1:R97KwsAZ5U0GRqrOVspQG0rPAzm3+CxDkrJ19b7hwf8=
+github.com/inspec/inspec-mongodb-resources/docs-chef-io v0.0.0-20250916171923-0350a4010119/go.mod h1:LAo5xmGnmk6pjRvhkotI1OGUccYAGPE1qSpUSC5BZRQ=

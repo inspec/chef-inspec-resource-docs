@@ -12,4 +12,5 @@ require (
 	github.com/inspec/inspec-gcp/docs-chef-io v0.0.0-20250911201923-c81ab6235fe3 // indirect
 	github.com/inspec/inspec-habitat/docs-chef-io v0.0.0-20250916164355-e5e082fedbcf // indirect
 	github.com/inspec/inspec-k8s/docs-chef-io v0.0.0-20250915194046-f000468b121d // indirect
+	github.com/inspec/inspec-mongodb-resources/docs-chef-io v0.0.0-20250916171923-0350a4010119 // indirect
 )
