@@ -4,12 +4,11 @@ title = "About the Chef InSpec Habitat resource pack"
 draft = false
 
 linkTitle = "Habitat resource pack"
-summary = "Chef InSpec resources for auditing Habitat packages and services"
+summary = "Chef InSpec resources for auditing Habitat packages and services."
 
 [cascade]
   [cascade.params]
     platform = "habitat"
-    gh_repo = "inspec-habitat"
 
 [menu.habitat]
     title = "About Habitat resources"
