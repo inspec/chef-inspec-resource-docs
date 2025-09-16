@@ -5,7 +5,7 @@
 # github.com/swiftype/swiftype-autocomplete-jquery v0.0.0-20190222215504-a90008d64b30
 # github.com/swiftype/swiftype-search-jquery v1.1.0
 # github.com/ten1seven/what-input v5.2.12+incompatible
-# github.com/inspec/inspec-alicloud/docs-chef-io v0.0.0-20250911191231-ebeaa9f23937
+# github.com/inspec/inspec-alicloud/docs-chef-io v0.0.0-20250916200856-e0282c7e7e95
 # github.com/inspec/inspec-aws/docs-chef-io v0.0.0-20250912190752-0aa1f52acb33
 # github.com/inspec/inspec-azure/docs-chef-io v0.0.0-20250916194337-b35304faf432
 # github.com/inspec/inspec-docker-resources/docs-chef-io v0.0.0-20250916163154-00f68530f2fe

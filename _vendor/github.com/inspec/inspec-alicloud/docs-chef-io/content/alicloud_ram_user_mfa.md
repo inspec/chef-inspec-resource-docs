@@ -1,8 +1,8 @@
 +++
 title = "alicloud_ram_user_mfa resource"
-platform = "alicloud"
+
 draft = false
-gh_repo = "inspec-alicloud"
+
 
 [menu.alicloud]
 title = "alicloud_ram_user_mfa"
@@ -46,7 +46,7 @@ See also the [Alibaba Cloud documentation on RAM users](https://www.alibabacloud
 
 The following example shows how to use this InSpec audit resource.
 
-**Test that a user has MFA configured.**
+Test that a user has MFA configured:
 
 ```ruby
 describe alicloud_ram_user_mfa(user_name: 'jakobp') do
