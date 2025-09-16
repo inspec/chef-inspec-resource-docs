@@ -7,6 +7,7 @@ require (
 	github.com/inspec/inspec-alicloud/docs-chef-io v0.0.0-20250911191231-ebeaa9f23937 // indirect
 	github.com/inspec/inspec-aws/docs-chef-io v0.0.0-20250912190752-0aa1f52acb33 // indirect
 	github.com/inspec/inspec-azure/docs-chef-io v0.0.0-20250912213150-214870470f20 // indirect
+	github.com/inspec/inspec-docker-resources/docs-chef-io v0.0.0-20250916163154-00f68530f2fe // indirect
 	github.com/inspec/inspec-gcp/docs-chef-io v0.0.0-20250911201923-c81ab6235fe3 // indirect
 	github.com/inspec/inspec-habitat/docs-chef-io v0.0.0-20250915185629-96bbe0e675bd // indirect
 	github.com/inspec/inspec-k8s/docs-chef-io v0.0.0-20250915194046-f000468b121d // indirect

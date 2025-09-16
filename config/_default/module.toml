@@ -89,7 +89,7 @@ workspace = ''
   target = "assets/sass/foundation-sites"
 
 ###
-# InSpec Alicloud resoure docs
+# InSpec Alicloud resource docs
 ###
 
 [[imports]]
@@ -108,7 +108,7 @@ workspace = ''
 
 
 ###
-# InSpec aws resoure docs
+# InSpec aws resource docs
 ###
 
 [[imports]]
@@ -130,7 +130,7 @@ workspace = ''
   target = "layouts"
 
 ###
-# InSpec azure resoure docs
+# InSpec azure resource docs
 ###
 
 [[imports]]
@@ -152,21 +152,21 @@ workspace = ''
   target = "layouts"
 
 # ###
-# # InSpec docker resoure docs
+# # InSpec docker resource docs
 # ###
 
-# [[imports]]
-#   disable = false
-#   ignoreConfig = false
-#   ignoreImports = false
-#   path = "github.com/inspec/inspec-docker/docs-chef-io"
+[[imports]]
+  disable = false
+  ignoreConfig = false
+  ignoreImports = false
+  path = "github.com/inspec/inspec-docker-resources/docs-chef-io"
 
-# [[imports.mounts]]
-#   source = "content"
-#   target = "content/docker"
+[[imports.mounts]]
+  source = "content"
+  target = "content/docker"
 
 # ###
-# # InSpec elasticsearch resoure docs
+# # InSpec elasticsearch resource docs
 # ###
 
 # [[imports]]
@@ -180,7 +180,7 @@ workspace = ''
 #   target = "content/elasticsearch"
 
 ###
-# InSpec GCP resoure docs
+# InSpec GCP resource docs
 ###
 
 [[imports]]
@@ -194,7 +194,7 @@ workspace = ''
   target = "content/gcp"
 
 ###
-# InSpec habitat resoure docs
+# InSpec habitat resource docs
 ###
 
 [[imports]]
@@ -208,7 +208,7 @@ workspace = ''
   target = "content/habitat"
 
 ###
-# InSpec k8s resoure docs
+# InSpec k8s resource docs
 ###
 
 [[imports]]
@@ -222,7 +222,7 @@ workspace = ''
   target = "content/k8s"
 
 # ###
-# # InSpec mongodb resoure docs
+# # InSpec mongodb resource docs
 # ###
 
 # [[imports]]
@@ -236,7 +236,7 @@ workspace = ''
 #   target = "content/mongodb"
 
 # ###
-# # InSpec podman resoure docs
+# # InSpec podman resource docs
 # ###
 
 # [[imports]]
@@ -250,7 +250,7 @@ workspace = ''
 #   target = "content/podman"
 
 # ###
-# # InSpec rabbitmq resoure docs
+# # InSpec rabbitmq resource docs
 # ###
 
 # [[imports]]
