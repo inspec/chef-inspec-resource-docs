@@ -14,8 +14,8 @@ github.com/inspec/inspec-gcp/docs-chef-io v0.0.0-20250911201923-c81ab6235fe3 h1:
 github.com/inspec/inspec-gcp/docs-chef-io v0.0.0-20250911201923-c81ab6235fe3/go.mod h1:3Ad4LlqDpvhXXkDJ5THGP4Nk2lTvOerNN2PBujr6KRA=
 github.com/inspec/inspec-habitat/docs-chef-io v0.0.0-20250916164355-e5e082fedbcf h1:6RqJNP32Oqqj4r0xdsselMmO0NlW5lJuZMDkvr2BQbw=
 github.com/inspec/inspec-habitat/docs-chef-io v0.0.0-20250916164355-e5e082fedbcf/go.mod h1:Q4E7QBY4b7HDE2psfGT9jqvnLq1yfg5e9KWK4VTtI/M=
-github.com/inspec/inspec-k8s/docs-chef-io v0.0.0-20250915194046-f000468b121d h1:Wldd69ZD+T0fUxniexRVpWmcsPg8CdVXQkBTrEXC38w=
-github.com/inspec/inspec-k8s/docs-chef-io v0.0.0-20250915194046-f000468b121d/go.mod h1:JwjkNHKgELWxc9esXuK3ELEGL371pK496OKrK+te3Lk=
+github.com/inspec/inspec-k8s/docs-chef-io v0.0.0-20250916191115-2364b56676e3 h1:SKXFGe1W5TZUQxCVYullJwGMccBYeG6q+Uz7ZCcD3DY=
+github.com/inspec/inspec-k8s/docs-chef-io v0.0.0-20250916191115-2364b56676e3/go.mod h1:JwjkNHKgELWxc9esXuK3ELEGL371pK496OKrK+te3Lk=
 github.com/inspec/inspec-mongodb-resources/docs-chef-io v0.0.0-20250916171923-0350a4010119 h1:R97KwsAZ5U0GRqrOVspQG0rPAzm3+CxDkrJ19b7hwf8=
 github.com/inspec/inspec-mongodb-resources/docs-chef-io v0.0.0-20250916171923-0350a4010119/go.mod h1:LAo5xmGnmk6pjRvhkotI1OGUccYAGPE1qSpUSC5BZRQ=
 github.com/inspec/inspec-podman-resources/docs-chef-io v0.0.0-20250916182215-3e30d0a84f87 h1:+1xipLX4FnVyfDMCCoK6PF5n1CQGqeyjyaUJh76a5iU=
