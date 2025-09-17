@@ -6,14 +6,25 @@
 # menuOrder = The order of the menus are included in the left nav menu.
 #             Menus are defined in the /config/_default/menu.toml file
 #######
-
-menuOrder = []
+menuOrder = [
+    "about",
+    "alicloud",
+    "aws",
+    "azure",
+    "docker",
+    "elasticsearch",
+    "gcp",
+    "habitat",
+    "k8s",
+    "mongodb",
+    "podman",
+    "rabbitmq",
+]
 
 #######
 # robots = The default robots config applied to each page in the robots meta tag.
 #          See http://www.robotstxt.org/meta.html
 #######
-
 robots = ''
 
 #######
@@ -28,8 +39,12 @@ robots = ''
 breadcrumbs = true
 
 [[breadcrumb_base]]
-breadcrumb = "Documentation"
-url = "https://docs.chef.io"
+   breadcrumb = "Documentation"
+   url = "https://docs.chef.io"
+
+[[breadcrumb_base]]
+   breadcrumb = "InSpec"
+   url = "https://docs.chef.io/inspec/"
 
 #######
 #
@@ -52,8 +67,8 @@ url = "https://docs.chef.io"
 #######
 
 [render_hooks.link]
-errorLevel = 'warning'
-highlightBroken = true
+   errorLevel = 'warning'
+   highlightBroken = true
 
 [render_hooks.image]
-errorLevel = 'warning'
+   errorLevel = 'warning'

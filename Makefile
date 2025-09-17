@@ -47,6 +47,11 @@ update_theme:
 	hugo mod npm pack
 	npm install
 
+tidy:
+	rm -rf _vendor
+	hugo mod tidy
+	hugo mod vendor
+
 ## See:
 ## - https://cspell.org/docs/getting-started/
 ## - https://cspell.org/configuration/

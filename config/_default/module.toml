@@ -87,3 +87,178 @@ workspace = ''
 [[mounts]]
   source = "node_modules/foundation-sites"
   target = "assets/sass/foundation-sites"
+
+###
+# InSpec Alicloud resource docs
+###
+
+[[imports]]
+  disable = false
+  ignoreConfig = false
+  ignoreImports = false
+  path = "github.com/inspec/inspec-alicloud/docs-chef-io"
+
+[[imports.mounts]]
+  source = "content"
+  target = "content/alicloud"
+
+[[imports.mounts]]
+  source = "layouts"
+  target = "layouts"
+
+
+###
+# InSpec aws resource docs
+###
+
+[[imports]]
+  disable = false
+  ignoreConfig = false
+  ignoreImports = false
+  path = "github.com/inspec/inspec-aws/docs-chef-io"
+
+[[imports.mounts]]
+  source = "content"
+  target = "content/aws"
+
+[[imports.mounts]]
+  source = "assets"
+  target = "assets"
+
+[[imports.mounts]]
+  source = "layouts"
+  target = "layouts"
+
+###
+# InSpec azure resource docs
+###
+
+[[imports]]
+  disable = false
+  ignoreConfig = false
+  ignoreImports = false
+  path = "github.com/inspec/inspec-azure/docs-chef-io"
+
+[[imports.mounts]]
+  source = "assets"
+  target = "assets"
+
+[[imports.mounts]]
+  source = "content"
+  target = "content/azure"
+
+[[imports.mounts]]
+  source = "layouts"
+  target = "layouts"
+
+# ###
+# # InSpec docker resource docs
+# ###
+
+[[imports]]
+  disable = false
+  ignoreConfig = false
+  ignoreImports = false
+  path = "github.com/inspec/inspec-docker-resources/docs-chef-io"
+
+[[imports.mounts]]
+  source = "content"
+  target = "content/docker"
+
+# ###
+# # InSpec elasticsearch resource docs
+# ###
+
+[[imports]]
+  disable = false
+  ignoreConfig = false
+  ignoreImports = false
+  path = "github.com/inspec/inspec-elasticsearch-resources/docs-chef-io"
+
+[[imports.mounts]]
+  source = "content"
+  target = "content/elasticsearch"
+
+###
+# InSpec GCP resource docs
+###
+
+[[imports]]
+  disable = false
+  ignoreConfig = false
+  ignoreImports = false
+  path = "github.com/inspec/inspec-gcp/docs-chef-io"
+
+[[imports.mounts]]
+  source = "content"
+  target = "content/gcp"
+
+###
+# InSpec habitat resource docs
+###
+
+[[imports]]
+  disable = false
+  ignoreConfig = false
+  ignoreImports = false
+  path = "github.com/inspec/inspec-habitat/docs-chef-io"
+
+[[imports.mounts]]
+  source = "content"
+  target = "content/habitat"
+
+###
+# InSpec k8s resource docs
+###
+
+[[imports]]
+  disable = false
+  ignoreConfig = false
+  ignoreImports = false
+  path = "github.com/inspec/inspec-k8s/docs-chef-io"
+
+[[imports.mounts]]
+  source = "content"
+  target = "content/k8s"
+
+# ###
+# # InSpec mongodb resource docs
+# ###
+
+[[imports]]
+  disable = false
+  ignoreConfig = false
+  ignoreImports = false
+  path = "github.com/inspec/inspec-mongodb-resources/docs-chef-io"
+
+[[imports.mounts]]
+  source = "content"
+  target = "content/mongodb"
+
+# ###
+# # InSpec podman resource docs
+# ###
+
+[[imports]]
+  disable = false
+  ignoreConfig = false
+  ignoreImports = false
+  path = "github.com/inspec/inspec-podman-resources/docs-chef-io"
+
+[[imports.mounts]]
+  source = "content"
+  target = "content/podman"
+
+# ###
+# # InSpec rabbitmq resource docs
+# ###
+
+[[imports]]
+  disable = false
+  ignoreConfig = false
+  ignoreImports = false
+  path = "github.com/inspec/inspec-rabbitmq-resources/docs-chef-io"
+
+[[imports.mounts]]
+  source = "content"
+  target = "content/rabbitmq"
