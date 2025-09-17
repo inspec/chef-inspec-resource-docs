@@ -5,7 +5,7 @@ go 1.23.11
 require (
 	github.com/chef/chef-docs-theme v0.0.0-20250910183723-d7eeb21fa4e6 // indirect
 	github.com/inspec/inspec-alicloud/docs-chef-io v0.0.0-20250916200856-e0282c7e7e95 // indirect
-	github.com/inspec/inspec-aws/docs-chef-io v0.0.0-20250912190752-0aa1f52acb33 // indirect
+	github.com/inspec/inspec-aws/docs-chef-io v0.0.0-20250916202221-29b643831cd7 // indirect
 	github.com/inspec/inspec-azure/docs-chef-io v0.0.0-20250916194337-b35304faf432 // indirect
 	github.com/inspec/inspec-docker-resources/docs-chef-io v0.0.0-20250916163154-00f68530f2fe // indirect
 	github.com/inspec/inspec-elasticsearch-resources/docs-chef-io v0.0.0-20250916165122-f444af6bce12 // indirect

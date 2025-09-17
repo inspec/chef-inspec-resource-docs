@@ -2,8 +2,8 @@ github.com/chef/chef-docs-theme v0.0.0-20250910183723-d7eeb21fa4e6 h1:xVfUSt79EK
 github.com/chef/chef-docs-theme v0.0.0-20250910183723-d7eeb21fa4e6/go.mod h1:+Jpnv+LXE6dXu2xDcMzMc0RxRGuCPAoFxq5tJ/X6QpQ=
 github.com/inspec/inspec-alicloud/docs-chef-io v0.0.0-20250916200856-e0282c7e7e95 h1:8tuOCVYNEM4s+xbcIQndwVCyxxKijVQKwwHG4J3Onck=
 github.com/inspec/inspec-alicloud/docs-chef-io v0.0.0-20250916200856-e0282c7e7e95/go.mod h1:tAazDDBtR5yCl/FNWHnrmkxpfxnOo9B99DyfRE7JH1c=
-github.com/inspec/inspec-aws/docs-chef-io v0.0.0-20250912190752-0aa1f52acb33 h1:Z3nCKMAfCYSHB22nRXMMh1GPiU8euNKT3rH7jOglXik=
-github.com/inspec/inspec-aws/docs-chef-io v0.0.0-20250912190752-0aa1f52acb33/go.mod h1:5rfIsi1/SqSiAXqU94UOcfMnebnuaEmFriU8k8t1Kes=
+github.com/inspec/inspec-aws/docs-chef-io v0.0.0-20250916202221-29b643831cd7 h1:g+WE5991Cz5BirERE09XZc60T2518INjDYPZ5ZwO7yI=
+github.com/inspec/inspec-aws/docs-chef-io v0.0.0-20250916202221-29b643831cd7/go.mod h1:5rfIsi1/SqSiAXqU94UOcfMnebnuaEmFriU8k8t1Kes=
 github.com/inspec/inspec-azure/docs-chef-io v0.0.0-20250916194337-b35304faf432 h1:0yiQig+8YCukhEgyWQZApX5XgEUH81Ii8fU2EyoHDp4=
 github.com/inspec/inspec-azure/docs-chef-io v0.0.0-20250916194337-b35304faf432/go.mod h1:93+uw8FTBAWybBZIn45FzO5vnZDBh51lgMwMP1vvIqo=
 github.com/inspec/inspec-docker-resources/docs-chef-io v0.0.0-20250916163154-00f68530f2fe h1:q+6/ew2uKVcCDRZQypESj/96ebFngKkRgZWWTdQEQgo=
