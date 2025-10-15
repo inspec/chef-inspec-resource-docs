@@ -6,6 +6,7 @@ linkTitle = "Resource packs"
 
 [cascade]
   breadcrumbs = true
+  swiftype_search_product_key = ["inspec"]
 
 [menu.about]
 title = "Resource packs"
