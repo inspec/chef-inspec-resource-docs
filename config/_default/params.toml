@@ -44,7 +44,7 @@ breadcrumbs = true
 
 [[breadcrumb_base]]
    breadcrumb = "InSpec"
-   url = "https://docs.chef.io/inspec/"
+   url = "https://docs.chef.io/inspec/latest/"
 
 #######
 #
