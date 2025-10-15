@@ -24,7 +24,7 @@ timeZone = 'America/New_York'
       taskList = true
       typographer = true
     [markup.goldmark.parser]
-      autoDefinitionTermID = false
+      autoDefinitionTermID = true
       autoHeadingID = true
       autoHeadingIDType = "github"
       wrapStandAloneImageWithinParagraph = true
