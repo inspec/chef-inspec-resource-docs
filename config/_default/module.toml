@@ -92,19 +92,19 @@ workspace = ''
 # InSpec Alicloud resource docs
 ###
 
-[[imports]]
-  disable = false
-  ignoreConfig = false
-  ignoreImports = false
-  path = "github.com/inspec/inspec-alicloud/docs-chef-io"
+# [[imports]]
+#   disable = false
+#   ignoreConfig = false
+#   ignoreImports = false
+#   path = "github.com/inspec/inspec-alicloud/docs-chef-io"
 
-[[imports.mounts]]
-  source = "content"
-  target = "content/alicloud"
+# [[imports.mounts]]
+#   source = "content"
+#   target = "content/alicloud"
 
-[[imports.mounts]]
-  source = "layouts"
-  target = "layouts"
+# [[imports.mounts]]
+#   source = "layouts"
+#   target = "layouts"
 
 
 ###
