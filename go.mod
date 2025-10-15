@@ -3,7 +3,7 @@ module github.com/inspec/chef-inspec-resource-docs
 go 1.23
 
 require (
-	github.com/chef/chef-docs-theme v0.0.0-20250910183723-d7eeb21fa4e6 // indirect
+	github.com/chef/chef-docs-theme v0.0.0-20251013213507-f2f920c69eed // indirect
 	github.com/inspec/inspec-aws/docs-chef-io v0.0.0-20250916202221-29b643831cd7 // indirect
 	github.com/inspec/inspec-azure/docs-chef-io v0.0.0-20250916194337-b35304faf432 // indirect
 	github.com/inspec/inspec-docker-resources/docs-chef-io v0.0.0-20250916163154-00f68530f2fe // indirect

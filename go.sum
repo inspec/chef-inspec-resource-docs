@@ -1,5 +1,5 @@
-github.com/chef/chef-docs-theme v0.0.0-20250910183723-d7eeb21fa4e6 h1:xVfUSt79EKoPAlXC6hpHQQABnOk9qcLzahGHCKovd/U=
-github.com/chef/chef-docs-theme v0.0.0-20250910183723-d7eeb21fa4e6/go.mod h1:+Jpnv+LXE6dXu2xDcMzMc0RxRGuCPAoFxq5tJ/X6QpQ=
+github.com/chef/chef-docs-theme v0.0.0-20251013213507-f2f920c69eed h1:zzYwORxTQRu+9wzABpfRqKubuEHrLbhgbPN6Sy72tMs=
+github.com/chef/chef-docs-theme v0.0.0-20251013213507-f2f920c69eed/go.mod h1:+Jpnv+LXE6dXu2xDcMzMc0RxRGuCPAoFxq5tJ/X6QpQ=
 github.com/inspec/inspec-aws/docs-chef-io v0.0.0-20250916202221-29b643831cd7 h1:g+WE5991Cz5BirERE09XZc60T2518INjDYPZ5ZwO7yI=
 github.com/inspec/inspec-aws/docs-chef-io v0.0.0-20250916202221-29b643831cd7/go.mod h1:5rfIsi1/SqSiAXqU94UOcfMnebnuaEmFriU8k8t1Kes=
 github.com/inspec/inspec-azure/docs-chef-io v0.0.0-20250916194337-b35304faf432 h1:0yiQig+8YCukhEgyWQZApX5XgEUH81Ii8fU2EyoHDp4=
