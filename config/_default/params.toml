@@ -7,18 +7,18 @@
 #             Menus are defined in the /config/_default/menu.toml file
 #######
 menuOrder = [
-    "about",
-    "alicloud",
-    "aws",
-    "azure",
-    "docker",
-    "elasticsearch",
-    "gcp",
-    "habitat",
-    "k8s",
-    "mongodb",
-    "podman",
-    "rabbitmq",
+   "about",
+   "alicloud",
+   "aws",
+   "azure",
+   "docker",
+   "elasticsearch",
+   "gcp",
+   "habitat",
+   "k8s",
+   "mongodb",
+   "podman",
+   "rabbitmq"
 ]
 
 #######
