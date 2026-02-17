@@ -52,3 +52,6 @@ documentation changes as they would appear on docs.chef.io.
 #### Clean your local environment
 
 To clean your local environment, run `make clean_all`.
+
+# Copyright
+See [COPYRIGHT.md](./COPYRIGHT.md).
